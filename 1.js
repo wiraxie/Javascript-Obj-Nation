@@ -57,6 +57,7 @@ objBaru =
         "Shift": "2"
     },
 ]
+
 console.log(newObj);
 console.log(objBaru);
 
