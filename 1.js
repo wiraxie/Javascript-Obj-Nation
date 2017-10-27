@@ -70,17 +70,17 @@ console.log(objBaru);
     var Shift = "";
     var telp = "";
 
-    //ubah data json
-    y = newObj[1].id = 100;
-    document.getElementById("testing").innerHTML=y;
+    // //ubah data json
+    // y = newObj[1].id = 100;
+    // document.getElementById("testing").innerHTML=y;
 
-    //hapus data json
-    z= "";
-    z = delete newObj[6];
-    document.getElementById("coba").innerHTML = z;
+    // //hapus data json
+    // z= "";
+    // z = delete newObj[6];
+    // document.getElementById("coba").innerHTML = z;
 
-    //hitung panjang dijumlahkan
-    document.getElementById("lagi").innerHTML = newObj.length + objBaru.length;
+    // //hitung panjang dijumlahkan
+    // document.getElementById("lagi").innerHTML = newObj.length + objBaru.length;
 
     /*var key;
     var item;*/
