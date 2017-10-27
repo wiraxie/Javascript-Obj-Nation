@@ -20,7 +20,7 @@ table
     max-width: auto;
 }
 
-a
+a, a:hover
 {
     color: white;
 }
