@@ -6,4 +6,5 @@ h5
 tr, td, th
 {
     border: 1px solid steelblue;
+    text-align: center;
 }

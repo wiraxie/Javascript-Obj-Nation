@@ -42,7 +42,7 @@ newObj =
         "id" : "6",
         "name": "Dudung",
         "wilayah": "Grogol",
-        "telp": "99",
+        "telp": "099",
         "Shift": "1"
     },
 ]
@@ -53,7 +53,7 @@ objBaru =
         "id" : "8",
         "name": "Baru",
         "wilayah": "Kebayoran Baru",
-        "telp": "021",
+        "telp": "028",
         "Shift": "2"
     },
 ]
