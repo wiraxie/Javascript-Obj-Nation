@@ -50,8 +50,8 @@ newObj =
 objBaru =  
 [
     {
-        "id" : "8",
-        "name": "Baru",
+        "id" : "100",
+        "name": "si Baru",
         "wilayah": "Kebayoran Baru",
         "telp": "028",
         "Shift": "2"
@@ -62,7 +62,7 @@ console.log(newObj);
 console.log(objBaru);
 
     //var myObj = {"id":"1", "name":"satu"}; 
-    var x, y, z;
+    var w, x, y, z;
     var i;
     var id = "";
     var name = "";
@@ -103,7 +103,7 @@ console.log(objBaru);
         wilayah += obj.wilayah + " " + "<br>";
         telp += obj.telp + " " + "<br>";
         Shift += obj.Shift + " " + "<br>";
-        
+
         document.getElementById("satu").innerHTML = id;
         document.getElementById("dua").innerHTML = name;
         document.getElementById("tiga").innerHTML = wilayah;
